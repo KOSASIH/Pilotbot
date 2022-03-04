@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pilotbot Pages
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Pilotbot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
