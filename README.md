@@ -1,4 +1,6 @@
 [![StackHawk](https://github.com/KOSASIH/Pilotbot/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/Pilotbot/actions/workflows/stackhawk.yml)
+[![tfsec](https://github.com/KOSASIH/Pilotbot/actions/workflows/tfsec.yml/badge.svg)](https://github.com/KOSASIH/Pilotbot/actions/workflows/tfsec.yml)
+
 # Pilotbot
 Autonomous Car Device App
 
